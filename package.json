@@ -1,0 +1,21 @@
+{
+  "name": "@greenbotics/gahoma",
+  "version": "0.0.1",
+  "description": "hole making tool for your garden",
+  "main": "index.js",
+  "keywords": [
+    "jscad",
+    "cad",
+    "garden",
+    "gardenning",
+    "hole",
+    "onion",
+    "parametric",
+    "gahoma"
+  ],
+  "author": "Mark 'kaosat-dev' Moissette & sons",
+  "license": "MIT",
+  "dependencies": {
+    "@jscad/csg": "0.7.0"
+  }
+}
