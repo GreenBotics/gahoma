@@ -1,6 +1,6 @@
 # Gahoma
 
->*Gahoma* aka garden-hole-maker: simple 3d printed tool for making holes to plant onions 
+>*Gahoma* aka garden-hole-maker: simple 3d printed tool for making regularly spaced holes in soil,  to plant onions 
 
 ![hole maker tool for onions](./assets/onion-tool-1.jpg "onion time!")
 
@@ -10,6 +10,8 @@ Designed and 3d printed a small and simple tool to make aligned and well spaces 
 - The design is parametric so you can set the desired distance / size for the holes. 
 - you can just set the right row distance by tightening the wheels( only one printed so far) at the desired distance
 - no back breaking : the central part is mean to put a wooden /pvc/ whatever rod so you can just roll it on the floor without bending over
+
+assembly instructions & bill of materials coming soon !   
 
 ## Table of Contents
 
